@@ -1,0 +1,10 @@
+﻿  Source.cpp
+c:\users\fabio\desktop\fast2dtrackingfof\source.cpp(168): warning C4805: '==': unsafe mix of type 'unsigned char' and type 'bool' in operation
+c:\users\fabio\desktop\fast2dtrackingfof\source.cpp(181): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\fabio\desktop\fast2dtrackingfof\source.cpp(182): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\fabio\desktop\fast2dtrackingfof\source.cpp(184): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\fabio\desktop\fast2dtrackingfof\source.cpp(221): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\fabio\desktop\fast2dtrackingfof\source.cpp(345): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\fabio\desktop\fast2dtrackingfof\source.cpp(394): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Fast2DTrackingFoF.vcxproj -> C:\Users\fabio\Desktop\Fast2DTrackingFoF\x64\Debug\Fast2DTrackingFoF.exe
+  Fast2DTrackingFoF.vcxproj -> C:\Users\fabio\Desktop\Fast2DTrackingFoF\x64\Debug\Fast2DTrackingFoF.pdb (Partial PDB)
